@@ -1,7 +1,7 @@
 # Hazel – Smart Automation  
 
 <div align="center">  
-<img src="https://www.noodlesoft.com/kb/wp-content/uploads/Hazel-256x256.png" width="250"/>  
+<img src="https://blog-cdn.lucatnt.com/file/LucaTNTBlog/2014/10/Hazel-for-Mac-icon.png" width="250"/>  
 </div>  
 
 <br>  
